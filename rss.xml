@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[greg hughes grid]]></title>
         <description><![CDATA[greg hughes grid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/greghughes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 01:19:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 01:24:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/greghughes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is a test post, number one.]]></title>
-            <description><![CDATA[<article><h1>This is a test post, number one.</h1><p>Number one!</p></article>]]></description>
-            <link>undefinedthis-is-a-test-post-number-one/index.html</link>
+            <description><![CDATA[<h1>This is a test post, number one.</h1>]]></description>
+            <link>https://thegrid.ai/greghughes/this-is-a-test-post-number-one/index.html</link>
             <guid isPermaLink="false">7b0b4cf3-e77b-400b-b796-a2be5ff4414a</guid>
-            <pubDate>Wed, 16 Dec 2015 01:19:22 GMT</pubDate>
+            <pubDate>Wed, 16 Dec 2015 01:24:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
