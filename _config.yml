@@ -1,6 +1,6 @@
 name: greghughes
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.52265
 typography_spectrum: 0.66126
 title: greg hughes grid
 cta:
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.375
-  lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0.6875
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
