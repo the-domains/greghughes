@@ -1,0 +1,28 @@
+name: greghughes
+favicon: null
+layout_spectrum: 0.991785743040964
+typography_spectrum: 0.7792577762156725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5318577350117266
+  lightness: 0.622663370333612
+  saturation: 0.8344148921314627
+  rhythmicContrast: 0.37716003879904747
+purpose: []
